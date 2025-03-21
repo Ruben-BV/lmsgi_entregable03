@@ -1,0 +1,52 @@
+* {
+    font-family: Arial, Geneva, Tahoma, sans-serif;
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+}
+
+span {
+    height: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.green {
+    color: green;
+    text-decoration: underline;
+}
+
+.blue {
+    color: blue;
+    text-decoration: line-through;
+}
+
+.sizeS {
+    font-size: 10px;
+}
+
+.sizeM {
+    font-size: 14px;
+}
+
+.sizeL {
+    font-size: 20px;
+}
+
+.sizeXL {
+    font-size: 32px;
+}
+
+.bottom {
+    line-height: 125px;
+}
+
+.top {
+    line-height: 85px;
+}
+
+.center {
+    line-height: 100px;
+}
+
