@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgb(195, 207, 205);
+    background-color: #cad1d5;
     width: 60%;
     max-width: 1500px;
     margin-left: auto;
@@ -22,18 +22,18 @@ h1 {
 }
 
 header p {
-    background-color: rgb(159, 185, 193);
+    background-color: #b5c2c8;
     margin-bottom: 15px;
 }
 
 h2 {
     text-decoration: underline;
-    color: rgb(76, 81, 83);
+    color: #435057;
     font-weight:bold;
     font-size: 32px;
     margin-top: 20px;
     margin-bottom: 20px;
-    background-color: rgb(120, 140, 146);
+    background-color: #7b919d;
 }
 
 ul {
@@ -47,7 +47,7 @@ ul li {
 }
 
 li {
-    background-color: rgb(159, 185, 193);
+    background-color: #b5c2c8;
     margin-top: 16px;
     margin-bottom: 16px;
 }
@@ -62,8 +62,8 @@ li {
 
 h3 {
     font-style: italic;
-    background-color: rgb(138, 158, 164);
-    color: rgb(76, 81, 83);
+    background-color: #98aab3;
+    color: #566b75;
 }
 
 span {
